@@ -1,3 +1,4 @@
 # Snipets
 
-- [Sharing resources between modules](Sharing resources between modules.md)
+- [Sharing resources between modules](Sharing%20resources%20between%20modules.md)
+
