@@ -1,0 +1,6 @@
+Found here
+https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000405999/comments/360000151119
+
+Add to debug config two variables:
+PYDEVD_USE_CYTHON=NO and PYDEVD_USE_FRAME_EVAL=NO
+
